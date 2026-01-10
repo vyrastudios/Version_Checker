@@ -1,6 +1,13 @@
 {
-  "android_version": "1.0.0",
-  "ios_version": "1.0.0",
-  "android_url": "https://play.google.com/store/apps/details?id=com.yourcompany.yourgame",
-  "ios_url": "https://apps.apple.com/app/id000000000"
+  "android": {
+    "latest_version": "1.0.3",
+    "force_update": true,
+    "update_message": "Your game version is outdated. Please update to continue."
+  },
+  "ios": {
+    "latest_version": "1.0.3",
+    "force_update": true,
+    "update_message": "Please update the game to continue.",
+    "app_id": "123456789"
+  }
 }
