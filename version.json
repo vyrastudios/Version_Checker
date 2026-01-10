@@ -1,13 +1,6 @@
 {
-  "android": {
-    "latest_version": "1.0.3",
-    "force_update": true,
-    "update_message": "Your game version is outdated. Please update to continue."
-  },
-  "ios": {
-    "latest_version": "1.0.3",
-    "force_update": true,
-    "update_message": "Please update the game to continue.",
-    "app_id": "123456789"
-  }
+  "latest_version": "1.0.3",
+  "force_update": true,
+  "update_message": "Your game version is outdated. Please update to continue.",
+  "ios_app_id": "123456789"
 }
