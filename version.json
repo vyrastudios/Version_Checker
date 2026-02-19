@@ -1,6 +1,6 @@
 {
   "latest_version": "1.0.1",
-  "force_update": true,
-  "update_message": "Your game version is outdated Please update to access new weapons and maps.",
+  "force_update": false,
+  "update_message": "Your",
   "ios_app_id": "123456789"
 }
